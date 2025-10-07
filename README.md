@@ -11,7 +11,7 @@ A comparison between Online Transactional Processing (**OLTP**) and Online Analy
 
 | Feature | OLTP (Databases) | OLAP (Data Warehouse) |
 | :--- | :--- | :--- |
-|              | Online Transactional Processing | Online Analytical Processing (Data Warehouse) |
+|  **Full Name**  | Online Transactional Processing | Online Analytical Processing (Data Warehouse) |
 | **Primary Use** | Handles **Writes & updates**. Optimized for **Reads**. | Optimized for complex analytical reads. |
 | **Data Management** | Managed by **DBA** using **Normalization** (1NF, 2NF, 3NF). | Managed by **BA** using **Dimensional Modeling**. |
 | **Examples** | MySQL, PostgreSQL, MS SQL, etc. | WhereScape Red, Snowflake, Redshift. |
